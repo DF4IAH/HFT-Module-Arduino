@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Arduino-Shield_Concept.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.33"
+     inkscape:cx="386.84971"
+     inkscape:cy="533.33158"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1352"
+     inkscape:window-x="11"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="205.71429"
+       y="95.219345"
+       id="text4136"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="205.71429"
+         y="95.219345">Arduino-Shield</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#6495ed;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159"
+       width="354.33069"
+       height="354.33072"
+       x="177.16536"
+       y="343.70078" />
+    <rect
+       style="opacity:1;fill:#deb887;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4170"
+       width="17.007874"
+       height="112.5"
+       x="508"
+       y="386.34769" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.25243"
+       y="206.73114"
+       id="text4217"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4219"
+         x="58.25243"
+         y="206.73114">Board</tspan></text>
+    <g
+       id="g4267"
+       transform="translate(-402.1021,-102.7027)">
+      <rect
+         y="464.03149"
+         x="773.36218"
+         height="54"
+         width="9"
+         id="rect4212"
+         style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffd700;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4261"
+         width="9"
+         height="72"
+         x="773.36218"
+         y="527.03223" />
+      <rect
+         style="opacity:1;fill:#7cfc00;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4263"
+         width="9"
+         height="72"
+         x="602.36218"
+         y="464.03149" />
+      <rect
+         y="540.53223"
+         x="602.36218"
+         height="90"
+         width="9"
+         id="rect4265"
+         style="opacity:1;fill:#32cd32;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="480.91751"
+       y="632.54242"
+       id="text4273"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4275"
+         x="480.91751"
+         y="632.54242">Px00..03</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="489.14017"
+       y="595.60541"
+       id="text4277"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4279"
+         x="489.14017"
+         y="595.60541">UART</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="492.7681"
+       y="578.57843"
+       id="text4281"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4283"
+         x="492.7681"
+         y="578.57843">EVT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="483.80325"
+       y="570.56641"
+       id="text4285"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4287"
+         x="483.80325"
+         y="570.56641">TIMCAP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="481.38138"
+       y="562.75262"
+       id="text4289"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4291"
+         x="481.38138"
+         y="562.75262">WAKEUP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="492.74612"
+       y="490.99884"
+       id="text4293"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4295"
+         x="492.74612"
+         y="490.99884">CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="494.53079"
+       y="479.38324"
+       id="text4297"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         x="494.53079"
+         y="479.38324">I2C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="495.22415"
+       y="466.66852"
+       id="text4301"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4303"
+         x="495.22415"
+         y="466.66852">SPI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="492.02347"
+       y="440.6445"
+       id="text4305"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="492.02347"
+         y="440.6445">M2S</tspan></text>
+    <rect
+       y="536.49786"
+       x="508"
+       height="112.5"
+       width="17.007874"
+       id="rect4309"
+       style="opacity:1;fill:#deb887;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g4323"
+       transform="translate(70.870871,-4.2042042)">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="333.1832"
+         x="-684.94482"
+         height="11.111111"
+         width="138.13814"
+         id="rect4311"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="353.7037"
+         x="-684.94482"
+         height="11.111111"
+         width="138.13814"
+         id="rect4317"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4319"
+         width="138.13814"
+         height="11.111111"
+         x="-684.94482"
+         y="374.22424" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="394.74475"
+         x="-684.94482"
+         height="11.111111"
+         width="138.13814"
+         id="rect4321"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.0097096;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="405.4054"
+       y="686.89673"
+       id="text4329"
+       sodipodi:linespacing="60.000002%"><tspan
+         sodipodi:role="line"
+         id="tspan4331"
+         x="405.4054"
+         y="686.89673">Px-Signals to Pins - Mapping</tspan></text>
+  </g>
+</svg>
